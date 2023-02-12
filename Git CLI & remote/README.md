@@ -30,3 +30,12 @@ Achtung: Keine Repos in andere Repos einfügen
 
 - Ein Commit mit der zugehörigen Nachricht erstellen
 > git commit -m "Commit-Nachricht"
+
+## Lokales Repository mit remote Repository verknüpfen
+
+- Ein neues Repository bei GitHub erstellen
+- Dann die drei Komandozeilen kopieren
+> git remote add origin git@github.com:GitHubUsername/repository-name.git
+> git branch -M main
+>git push -u origin main
+- Und die Zeilen im Terminal einfügen
