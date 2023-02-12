@@ -34,3 +34,7 @@ Hier war der Zeilenumbruch.
 
 - [ ] Checkblox
 - [x] abgehackte Checkbox
+
+# Betonungen
+**Fett**
+_kursiv_
