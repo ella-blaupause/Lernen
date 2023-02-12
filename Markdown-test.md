@@ -38,3 +38,7 @@ Hier war der Zeilenumbruch.
 # Betonungen
 Das **Wort** ist fett.  
 Das _Wort_ ist kursiv
+
+# Link
+
+[Beispiellink](https://github.com/neuefische/cgn-web-23-1/blob/main/sessions/github-and-markdown/github-and-markdown.md)
