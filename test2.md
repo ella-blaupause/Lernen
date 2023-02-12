@@ -15,5 +15,5 @@
 
 # Zeilenumbüche
 
-Gleich kommt ein Zeilenumbruch.  
+Am Ende der Zeile zwei Mal Leerzeichen setzen.    
 Hier war der Zeilenumbruch.
