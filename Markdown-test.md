@@ -17,3 +17,9 @@
 
 Am Ende der Zeile zwei Mal Leerzeichen setzen.    
 Hier war der Zeilenumbruch.
+
+# Listen (ungeordnet)
+
+- Eintrag 1
++ Eintrag 2
+* Eintrag 3
