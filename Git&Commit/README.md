@@ -19,3 +19,25 @@ Der gegenwärtige Zustand eines Projekts wird in Git gepeichert (Schnappschuss)
 - Das erste Wort ist ein Verb: "add", "fix", "remove"
 - Immer in der Gegenwart schreiben
 - Kein Punkt am Ende des Satzes
+
+### 20 häufigsten Verben in Commits
+
+1. add
+2. merge
+3. fix
+4. remove
+5. implement
+6. update
+7. change
+8. use
+9. set
+10. refactor
+11. move
+12. hide
+13. allow
+14. extract
+15. test
+16. disable
+17. install
+18. rename
+19. upgrade expose
