@@ -22,6 +22,11 @@ Achtung: Keine Repos in andere Repos einfügen
 
 ## Ein lokales Repository committen
 
-- git status
-- git add .
-- git commit -m "Commit-Nachricht"
+- Alle geänderten Daten und deren Status auflisten
+> git status
+
+- Alle geänderten Daten in den Staging-Bereich hinzufügen
+> git add .
+
+- Ein Commit mit der zugehörigen Nachricht erstellen
+> git commit -m "Commit-Nachricht"
