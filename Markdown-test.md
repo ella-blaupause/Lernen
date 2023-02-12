@@ -36,5 +36,5 @@ Hier war der Zeilenumbruch.
 - [x] abgehackte Checkbox
 
 # Betonungen
-**Fett**
-_kursiv_
+Das **Wort** ist fett.  
+Das _Wort_ ist kursiv
