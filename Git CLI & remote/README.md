@@ -16,7 +16,12 @@ Achtung: Keine Repos in andere Repos einfügen
 
 ## Die drei Zustände einer Datei
 
-- **Modefid** bedeutet, dass eine Datei geändert, aber noch nicht in die lokale Datenbank eingecheckt wurde.
+- **Modefied** bedeutet, dass eine Datei geändert, aber noch nicht in die lokale Datenbank eingecheckt wurde.
 - **Staged** bedeutet, dass eine geänderte Datei in ihrem gegenwärtigen Zustand für den nächsten Commit vorgemerkt ist.
 - **Commmited** bedeutet, dass die Daten sicher in der lokalen Datenbank gespeichert sind.
 
+## Ein lokales Repository committen
+
+- git status
+- git add .
+- git commit -m "Commit-Nachricht"
