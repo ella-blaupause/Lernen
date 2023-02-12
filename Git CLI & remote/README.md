@@ -42,6 +42,11 @@ Achtung: Keine Repos in andere Repos einfügen
 
 ## Remote Repository klonen
 
-> git clone <url>
+> git clone url
   
  Auf SSH achten!
+ 
+ ## Lokale und remote Repositorys synchronisieren
+ 
+ > git push: Lokales Repository hochladen  
+ > git pull: Remote-Repository runterladen
