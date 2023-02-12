@@ -39,3 +39,9 @@ Achtung: Keine Repos in andere Repos einfügen
 > git branch -M main  
 >git push -u origin main
 - Und die Zeilen im Terminal einfügen
+
+## Remote Repository klonen
+
+> git clone <url>
+  
+ Auf SSH achten!
