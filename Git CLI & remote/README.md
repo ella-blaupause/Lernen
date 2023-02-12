@@ -49,6 +49,9 @@ Achtung: Keine Repos in andere Repos einfügen
  ## Lokale und remote Repositorys synchronisieren
  
  > git push  
- Lokales Repository hochladen  
+
+ Lokales Repository hochladen   
+
  > git pull  
+
  Remote-Repository runterladen
