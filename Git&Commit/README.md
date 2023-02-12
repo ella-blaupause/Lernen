@@ -41,3 +41,10 @@ Der gegenwärtige Zustand eines Projekts wird in Git gepeichert (Schnappschuss)
 17. install
 18. rename
 19. upgrade expose
+
+# GitHub
+GitHub ist ein netzbasierter Dienst zur Versionsverwaltung für Software-Entwicklungsprojekte. Namensgebend war das Versionsverwaltungssystem Git.  
+
+Ähnliche Dienste sind GitLab, Bitbucket und Gitee.
+
+[Wiki](https://de.wikipedia.org/wiki/GitHub)
