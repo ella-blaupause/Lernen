@@ -29,3 +29,8 @@ Hier war der Zeilenumbruch.
 1. Eintrag 1
 2. Eintrag 2
 3. Eintrag 3
+
+# Checkbox 
+
+- []
+- [x]
