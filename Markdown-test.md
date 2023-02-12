@@ -32,5 +32,5 @@ Hier war der Zeilenumbruch.
 
 # Checkbox 
 
-- [ ]
-- [x]
+- [ ] Checkblox
+- [x] abgehackte Checkbox
