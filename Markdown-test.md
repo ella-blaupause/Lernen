@@ -56,3 +56,8 @@ Das _Wort_ ist kursiv
 ---
 oder
 ***
+
+# Tabellen
+Spalte 1 | Spalte 2 | Spalte 3
+---------|----------|---------
+Inhalt 1 | Inhalt 2| Inhalt 3
