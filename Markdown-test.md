@@ -45,4 +45,4 @@ Das _Wort_ ist kursiv
 
 # Bild
 
-![Das ist ein Eichhörnchen](2wCEAAoHCBYWFRgSFRUYGRgYGhgYGBgYGBoYGBgYGBgcGRkYGBgcIS4lHB4sIRgYJjgmKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QHhISHzQrISs0NDQ2NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0MTQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NP)
+![Das ist ein Eichhörnchen](https://www.br.de/kinder/rotes-eichhoernchen-nuss-100~_v-img__16__9__l_-1dc0e8f74459dd04c91a0d45af4972b9069f1135.jpg?version=db6ef)
