@@ -61,3 +61,7 @@ oder
 Spalte 1 | Spalte 2 | Spalte 3
 ---------|----------|---------
 Inhalt 1 | Inhalt 2| Inhalt 3
+
+# Text durchstreichen
+
+Das ist ~~kein~~ ein Text. 
