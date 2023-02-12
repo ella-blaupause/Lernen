@@ -46,3 +46,7 @@ Das _Wort_ ist kursiv
 # Bild
 
 ![Das ist ein Eichhörnchen](https://www.br.de/kinder/rotes-eichhoernchen-nuss-100~_v-img__16__9__l_-1dc0e8f74459dd04c91a0d45af4972b9069f1135.jpg?version=db6ef)
+
+# Zitate
+
+> Ich zitiere mich selber
