@@ -7,8 +7,8 @@
 
 # Alternative Überschriften
 
-1 Grad 
-----
-
-2 Grad
+Überschrift 1. Grad 
 ===
+
+Überschrift 1. Grad 
+---
