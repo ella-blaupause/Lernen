@@ -9,4 +9,5 @@ Mit dem Begriff **Repository** bezeichnet wird eine zentrale Ablage für Daten, 
 
 - In das Verzeichnis wechseln, das zu einer Repo werden soll
 > cd Verzeichnis
+- In die Konsole eingeben
 > git init
