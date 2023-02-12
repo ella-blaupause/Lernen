@@ -42,3 +42,7 @@ Das _Wort_ ist kursiv
 # Link
 
 [Beispiellink](https://github.com/neuefische/cgn-web-23-1/blob/main/sessions/github-and-markdown/github-and-markdown.md)
+
+# Bild
+
+![Das ist ein Eichhörnchen](2wCEAAoHCBYWFRgSFRUYGRgYGhgYGBgYGBoYGBgYGBgcGRkYGBgcIS4lHB4sIRgYJjgmKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QHhISHzQrISs0NDQ2NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0MTQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NP)
