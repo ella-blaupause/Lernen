@@ -50,3 +50,9 @@ Das _Wort_ ist kursiv
 # Zitate
 
 > Ich zitiere mich selber
+
+# Horizontale Linie
+
+---
+oder
+***
